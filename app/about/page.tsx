@@ -36,12 +36,12 @@ export default function About() {
         >
           <h1 className="mb-6 text-4xl font-bold">About Me</h1>
           <p className="mb-4 text-lg text-muted-foreground">
-            I'm an aspiring **Full Stack Developer** with hands-on experience in building **modern web applications**. 
-            I have worked on multiple **projects**, participated in **hackathons**, and transformed **Figma designs** into fully functional **Next.js applications**.
+            `I'm an aspiring Full Stack Developer with hands-on experience in building modern web applications. 
+            I have worked on multiple projects, participated in hackathons, and transformed Figma designs into fully functional Next.js applications.`
           </p>
           <p className="mb-4 text-lg text-muted-foreground">
-            My self-learning journey has allowed me to gain practical experience in **Next.js, Tailwind CSS, TypeScript, and full-stack development**. 
-            I'm always eager to explore new technologies and build impactful applications.
+           ` My self-learning journey has allowed me to gain practical experience in Next.js, Tailwind CSS, TypeScript, and full-stack development. 
+            I'm always eager to explore new technologies and build impactful applications.`
           </p>
           <div className="mt-6 grid grid-cols-2 gap-4">
             <div>
